@@ -11,4 +11,5 @@
 ## [**Assignment 06 to 10**](./assignment_06_to_10)
 
 * [**assignment 1**](./assignment_06_to_10/1.html)
-* [**assignmet 2**](./assignment_06_to_10/2.html)
+* [**assignment 2**](./assignment_06_to_10/2.html)
+* [**assignment 3**](./assignment_06_to_10/3.html)
